@@ -1,1 +1,1 @@
-# JavaScript-Click-Game
+# Jquery-Click-Game
